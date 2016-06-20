@@ -8,3 +8,14 @@ hr {
     color: #333;
     background-color: #333;
 }
+
+#introduction{
+    font-size: 20px;
+    margin: 10px;
+    font-style: italic;
+}
+
+#footerText{
+    margin:10px;
+    font-size: 16px;
+}
