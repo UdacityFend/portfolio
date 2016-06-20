@@ -1,0 +1,10 @@
+.container-fluid{
+    margin:20px;
+}
+
+hr {
+    border: none;
+    height: 3px;
+    color: #333;
+    background-color: #333;
+}
